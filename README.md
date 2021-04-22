@@ -2,7 +2,7 @@
 
 ## Integrantes:
 - Yeison Pacheco Rangel (Institucional)
-- Tatiana Jeronimo Montiell
+- Tatiana Jeronimo Montiel
 - Ardwin Moreno Valderrama 
 
 
