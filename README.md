@@ -2,7 +2,7 @@
 
 ## Integrantes:
 - Yeison Pacheco Rangel (Institucional)
-- Tatiana Jeronimo Montiel
+- prueba
 - Ardwin Moreno Valderrama 
 
 
