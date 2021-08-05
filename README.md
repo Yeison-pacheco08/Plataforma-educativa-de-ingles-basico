@@ -3,6 +3,6 @@
 ## Integrantes:
 - Yeison Pacheco Rangel (Institucional)
 - Tatiana Jeronimo Montiel
-- Ardwin Moreno Valderrama 
+- Valentina Sierra Gloria 
 
 
